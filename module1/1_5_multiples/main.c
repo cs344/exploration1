@@ -7,8 +7,8 @@
 int main(void) {
 
   /* Declare variables and their types*/
-  int boundary;
   int denominator;
+  int boundary;
 
   printf("Enter a positive integer whose multiples you want printed: ");
   scanf("%d", &denominator);
